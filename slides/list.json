@@ -1,5 +1,47 @@
-["index.md",
+[
+    "index.md",
     "who-am-i.md",
     "currently-working.md",
     "i-have-gifts.md",
-    "qr-code.html"]
+    "qr-code.html",
+    "before-we-begin.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/blah-blah.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/cheerleaders-stupid.gif"
+        }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/taylor-swift-raised-hand.gif"
+        }
+    },
+    "what-you-were-expecting.md",
+    "clever.md",
+    "what-you-got.md",
+    "idiot.md",
+    "in-browser-optimised-cleverness.md",
+    "you-will-get-microservice-insights.md",
+    "but-delivered-in-a-different-way.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/kirk-what.gif"
+        }
+    },
+    "we-re-going-to-have-a-conversation.md",
+    "we-ll-me-and-iulia-are.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/star-trek-warning.gif"
+        }
+    }
+]
