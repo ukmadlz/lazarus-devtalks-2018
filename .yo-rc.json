@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Lazarus",
+    "packageVersion": "0.0.1",
+    "revealTheme": "black",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "ukmadlz",
+    "githubRepository": "lazarus-devtalks-2018"
+  }
+}
