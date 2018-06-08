@@ -76,5 +76,15 @@
         "attr": {
             "data-background": "resources/gifs/complex-lego.gif"
         }
+    },
+    "for-added-complexity.md",
+    "3-distinct-apps-for-1-core-business.md",
+    "and-an-existing-multi-channel-business.md",
+    "that-s-the-setup.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/pegg-blah.gif"
+        }
     }
 ]
