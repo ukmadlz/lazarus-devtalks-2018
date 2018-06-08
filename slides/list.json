@@ -87,5 +87,14 @@
         "attr": {
             "data-background": "resources/gifs/pegg-blah.gif"
         }
-    }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/be-quiet.gif"
+        }
+    },
+    "this-talk.md",
+    "that-s-us.md",
+    "questions.md"
 ]
