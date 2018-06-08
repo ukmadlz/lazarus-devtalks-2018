@@ -69,5 +69,12 @@
     },
     "microservices-microsites-kinda.md",
     "how-do-you-break-it-down.md",
-    "we-broke-it-down-by-feature-and-domain-of-information.md"
+    "we-broke-it-down-by-feature-and-domain-of-information.md",
+    "normal-microservices.md",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/complex-lego.gif"
+        }
+    }
 ]
