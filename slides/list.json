@@ -43,5 +43,21 @@
         "attr": {
             "data-background": "resources/gifs/star-trek-warning.gif"
         }
+    },
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/star-wars-long-ago.gif"
+        }
+    },
+    "outsourced.html",
+    "drupal-6.html",
+    "drupal-6-core.html",
+    "drupal-6-core-with-aws.html",
+    {
+        "filename": "blank.md",
+        "attr": {
+            "data-background": "resources/gifs/monolith.gif"
+        }
     }
 ]
