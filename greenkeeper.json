@@ -1,0 +1,10 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "bower_components/reveal.js/package.json",
+        "bower_components/reveal.js/plugin/multiplex/package.json"
+      ]
+    }
+  }
+}
